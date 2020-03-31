@@ -1,0 +1,8 @@
+# Ignore Eclipse stuff
+/classes/
+/target/
+/.settings/
+/bin/
+.classpath
+.DS_Store
+.project
